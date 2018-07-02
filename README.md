@@ -1,0 +1,2 @@
+# Epicalc
+Epidemiological calculator
